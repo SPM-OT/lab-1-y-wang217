@@ -1,2 +1,0 @@
-this is text
-in the branch example text file
